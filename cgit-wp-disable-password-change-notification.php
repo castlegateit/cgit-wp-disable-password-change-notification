@@ -7,9 +7,9 @@
  * Description: Prevents the admin email address from receiving user password change notifications.
  * Author: Castlegate
  * Author URI: https://www.castlegateit.co.uk
- * Version: 1.0.0
+ * Version: 1.0.1
  * Network: True
- * License: GPLv3
+ * License: MIT
  * Requires PHP: 5.6
  */
 
